@@ -8,3 +8,5 @@ dgikiee
 ブランチテストだよ！
 
 あれ？
+
+bugfixtestブランチを作りたい！
